@@ -10,6 +10,6 @@ I am an infectious disease geneticist working at the Yale School of Public Heath
 - 🌐 [github pages](https://sethnr.github.io) · [LinkedIn](https://www.linkedin.com/in/sethnr/)
 
 ---
-**Open to collaborations** in assay development, genomic surveillance, and global health bioinformatics.
+**Open to collaborations** in assay development, genomic surveillance, and translational global health bioinformatics.
 
-**Open to opportunities** in infectious disease R&D, biomarker & genomic surveillance innovation, and translational computational biology
+**Open to opportunities** in infectious disease genomics, biomarker & assay innovation, and computational biology R&D
