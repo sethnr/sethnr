@@ -1,16 +1,15 @@
-## Hi there 👋
+# Seth Redmond, PhD
+Computational biologist | Translational pathogen genomics | Population genetics  
 
-<!--
-**sethnr/sethnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an infectious disease geneticist working at the Yale School of Public Heath. I develop and apply genomic methods to understand **infectious disease epidemiology**, **drug resistance**, and **vector evolution** — translating research into impact for public and global health.
 
-Here are some ideas to get you started:
+- 💡 Methods: amplicon sequencing, lineage/resistance calling, admixture mapping, selection inference, CNV detection
+- 🦠 Pathogens: RSV/HMPV · TB · Malaria · Arboviruses · Malaria vectors · Arboviral vectors
+- 🔧 Tools: Python · R · PyTorch/CUDA · Snakemake/Nextflow · Terra · Docker · PBS/HPC
+- 📄 [Google Scholar](https://scholar.google.com/citations?user=Kty5i3wAAAAJ) · [Yale profile](https://ysph.yale.edu/profile/seth-redmond/)
+- 🌐 [github pages](https://sethnr.github.io) · [LinkedIn](https://www.linkedin.com/in/sethnr/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+**Open to collaborations** in assay development, genomic surveillance, and global health bioinformatics.
+
+**Open to opportunities** in infectious disease R&D, biomarker & genomic surveillance innovation, and translational computational biology
