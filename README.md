@@ -1,7 +1,7 @@
 # Seth Redmond, PhD
 Computational biologist | Translational pathogen genomics | Population genetics  
 
-I am an infectious disease geneticist working at the Yale School of Public Heath. I develop and apply genomic methods to understand **infectious disease epidemiology**, **drug resistance**, and **vector evolution** — translating research into impact for public and global health.
+I am an infectious disease geneticist working at the Infectious Diseases Data Observatory. I develop and apply genomic methods to understand **infectious disease epidemiology**, **drug resistance**, and **vector evolution** — translating research into impact for public and global health.
 
 - Methods: amplicon sequencing, lineage/resistance calling, admixture mapping, selection inference, CNV detection
 - Pathogens: RSV/HMPV · TB · Malaria · Arboviruses · Malaria vectors · Arboviral vectors
